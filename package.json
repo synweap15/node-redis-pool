@@ -1,6 +1,6 @@
 {
-  "name": "pool-redis",
-  "description": "Pool redis connections for Node.JS",
+  "name": "pool-redis-promisified",
+  "description": "Pool redis connections for Node.JS (promisified)",
   "version": "0.1.2",
   "author": {
     "name": "Valentin Morenko",
@@ -10,7 +10,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Valzon/node-redis-pool"
+    "url": "https://github.com/synweap15/node-redis-pool"
   },
   "engines": {
     "node": "*"
